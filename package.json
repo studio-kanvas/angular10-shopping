@@ -11,16 +11,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devconcept/ng-shopping-cart.git"
+    "url": "git+https://github.com/studio-kanvas/ng-shopping-cart.git"
   },
   "author": {
-    "name": "devconcept",
-    "email": "devconcept@outlook.com"
+    "name": "ben kang",
   },
   "bugs": {
-    "url": "https://github.com/devconcept/ng-shopping-cart/issues"
+    "url": "https://github.com/studio-kanvas/ng-shopping-cart/issues"
   },
-  "homepage": "https://github.com/devconcept/ng-shopping-cart",
+  "homepage": "https://github.com/studio-kanvas/ng-shopping-cart",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --app=1",

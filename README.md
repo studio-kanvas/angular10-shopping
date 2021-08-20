@@ -45,27 +45,6 @@ or `yarn`
 ```bash
 yarn add ng-shopping-cart
 ```
-
-
-## Documentation
-
-Documentation is available at http://devconcept.github.io/ng-shopping-cart/
-
-
-[Dgeni][dgeni-github] is used to automatically generate documentation from the source code. 
-
-If you spot an error please consider [reporting it](https://github.com/devconcept/ng-shopping-cart/issues).
-
-## Demo
-
-You can find a demo of the library in the url http://devconcept.github.io/ng-shopping-cart/demo/. 
-
-The demo is also available if you:
-
-- Clone the repository
-- Install it's dependencies with `npm install`
-- Run `npm start` or `ng run demo`
-
 ## Upcoming features
 
 - [ ] Less and stylus support
@@ -83,14 +62,11 @@ The demo is also available if you:
 - [ ] Flexbox and CSS grid support
 
 - [ ] Reactive components?
-
-Ideas and suggestions are always welcome. You can also contribute. Check the [contribution guidelines](https://github.com/devconcept/ng-shopping-cart/blob/master/CONTRIBUTING.md).
+.
 
 ## License
 
-[MIT](https://github.com/devconcept/ng-shopping-cart/blob/master/LICENSE)
-
-[dgeni-github]: https://github.com/angular/dgeni "Dgeni"
+[MIT](https://github.com/studi-kanvas/ng-shopping-cart/blob/master/LICENSE)
 
 
 
